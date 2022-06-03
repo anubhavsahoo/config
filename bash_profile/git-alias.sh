@@ -1,4 +1,7 @@
-# curl
+# how to use
+# curl https://raw.githubusercontent.com/anubhavsahoo/config/main/bash_profile/git-alias.sh >> ~/.bash_profile
+# source ~/.bash_profile
+
 ##################
 ### MY GIT ALIASES ###
 ##################
