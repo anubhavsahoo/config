@@ -1,0 +1,1 @@
+# apply all bash_profile changes
